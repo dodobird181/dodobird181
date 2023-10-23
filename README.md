@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dodobird181&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="dodobird181"/>
 
 **Lately, I've been...**
-- ⏳ Obsessing over my pet-project, [Sam-Bot](https://github.com/dodobird181/sam-bot),
+- ⏳ Obsessing over my pet-project, [Sam-Bot](https://github.com/dodobird181/chatbotwebsite),
 - 🪚 Abusing the [Chat-GPT API](https://platform.openai.com/docs/api-reference/authentication), and;
 - ♟ Trying to get above a 1500 on [LiChess](https://lichess.org/@/Spazzamatic1400).
 <br>
