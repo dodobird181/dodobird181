@@ -3,6 +3,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=dodobird181&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="dodobird181"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dodobird181"/>
 
 **Lately, I've been...**
 - ⏳ Obsessing over my pet-project, [Sam-Bot](https://github.com/dodobird181/chatbotwebsite),
