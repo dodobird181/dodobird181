@@ -1,8 +1,6 @@
 # Hi 👋🏻, I'm Sam 🦤
 ### A recent McGill University graduate interested in solving challenging problems.
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=dodobird181&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="dodobird181"/>
 <img src="https://github-readme-stats.vercel.app/api?username=dodobird181&show_icons=true&theme=transparent&hide_border=true"/>
 
 **Lately, I've been...**
