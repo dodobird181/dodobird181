@@ -1,7 +1,7 @@
 # Hi 👋🏻, I'm Sam 🦤
 ### A recent McGill University graduate interested in solving challenging problems.
 
-<img src="https://github-readme-stats.vercel.app/api?username=dodobird181&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" style="height: 225px;display: inline-block; vertical-align: top;"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodobird181&hide_border=true&layout=donut&theme=transparent" style="display: inline-block;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dodobird181&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" style="height: 200px; display: inline-block;"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodobird181&hide_border=true&layout=donut&theme=transparent" style="display: inline-block; height: 200px;"/>
 
 **Lately, I've been...**
 - ⏳ Obsessing over my pet-project, [Sam-Bot](https://github.com/dodobird181/chatbotwebsite),
